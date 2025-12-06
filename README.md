@@ -1,5 +1,3 @@
-Proyek ini adalah game 3D sederhana yang dibuat menggunakan Unity 2021.3.45f1.
-Game ini memiliki gameplay dasar berupa karakter yang berlari dalam lingkungan 3D, menghindari objek, dan mengumpulkan item.
 ✨ Fitur Utama
 🌳 Lingkungan 3D Low Poly dengan objek seperti pohon, batu, semak, bunga, rumput, dan elemen alam lainnya.
 🧍‍♂️ Player Controller sederhana untuk menggerakkan karakter.
